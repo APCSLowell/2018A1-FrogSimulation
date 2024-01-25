@@ -1,25 +1,51 @@
-# AP Computer Science A 2017 FRQ #1 - Digits
+# AP Computer Science A 2018 FRQ #1 - FrogSimulation
 
-Instructions: https://apcentral.collegeboard.org/pdf/ap-computer-science-a-frq-2017.pdf
+ 
 
-Quick Reference:  [https://apstudents.collegeboard.org/ap/pdf/ap-computer-science-a-java-quick-reference.pdf](https://apstudents.collegeboard.org/ap/pdf/ap-computer-science-a-java-quick-reference.pdf) 
+Instructions: https://secure-media.collegeboard.org/ap/pdf/ap18-frq-computer-science-a.pdf
 
-The correct answer outputs should be as follows.
+Quick Reference Guide:
 
-Part A:
+[https://apstudents.collegeboard.org/ap/pdf/ap-computer-science-a-java-quick-reference.pdf](https://apstudents.collegeboard.org/ap/pdf/ap-computer-science-a-java-quick-reference.pdf) 
 
-[1, 5, 7, 0, 4]
+The correct answer outputs should be as follows. 
 
-[0]
+```
+Testing Part A
+```
 
-Part B:
+```
+Example 1: true
+```
 
-[7] -> true
+```
+Example 2: true
+```
 
-[1, 3, 5, 6] -> true
+```
+Example 3: true
+```
 
-[1, 3, 3, 6] -> false
+```
+Example 4: false
+```
 
-[1, 5, 3, 6] -> false
+```
+Example 5: false
+```
 
-[6, 5, 3, 1, 0] -> false
+```
+Testing Part B
+```
+
+```
+Success Proportion : 0.6
+```
+
+```
+Success Proportion : 0.5
+```
+
+```
+Success Proportion : 1.0
+```
